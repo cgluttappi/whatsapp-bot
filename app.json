@@ -1,5 +1,5 @@
 {
-    "name": "Bottus",
+    "name": "my pucking LUTTAPPI bot ",
     "description": " Whatsapp bot.",
     "keywords": [
         "whatsapp",
@@ -56,7 +56,7 @@
         "WARN_COUNT": {
             "description": "Maximum no of warns",
             "required": false,
-            "value": "3"
+            "value": "5"
         },
         "WARN_MSG": {
             "description": "Message send while kicking.",
@@ -74,7 +74,7 @@
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "🥰,lyfe00011"
+            "value": "❤️,LUTTAPPI"
         },
         "DISABLE_BOT":{
          "description": "Disable or Block bot in group/chat.Enter required chat jid separated by ,",
